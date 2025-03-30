@@ -38,7 +38,7 @@ Główne wyzwania:
 
 ## Wątki i ich reprezentacja
 
-W naszej implementacji:
+W stworzonej implementacji:
 
 - **Wątek główny**: Inicjalizuje symulację, tworzy wątki filozofów i czeka na ich zakończenie.
 - **Wątki filozofów**: Każdy filozof jest reprezentowany przez osobny wątek, który wykonuje cyklicznie pięć cykli następujących operacji:
