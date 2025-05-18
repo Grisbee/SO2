@@ -1,6 +1,0 @@
-osascript -e 'tell application "Terminal" to do script "cd \"'$PWD'\" && python3 server.py"'
-
-sleep 1
-
-osascript -e 'tell application "Terminal" to do script "cd \"'$PWD'\" && python3 client.py"'
-osascript -e 'tell application "Terminal" to do script "cd \"'$PWD'\" && python3 client.py"'
